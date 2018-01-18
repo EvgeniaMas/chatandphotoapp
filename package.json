@@ -4,19 +4,15 @@
   "license": "MIT",
   "author": {
     "name": "Evgeniia"
-    
   },
- 
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node app.js"
   },
-
   "engines": {
     "node": "^6.0.0"
   },
-
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "~1.13.2",
